@@ -7,5 +7,5 @@ sources:
       - name: inventory_items
       - name: order_items
       - name: orders
-      - name: proucts
+      - name: products
       - name: users
